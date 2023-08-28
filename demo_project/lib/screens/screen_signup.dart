@@ -72,7 +72,7 @@ class _MysignUpState extends State<MysignUp> {
     return   Scaffold(
           appBar: AppBar(
             title: Text('Sign Up',style: Theme.of(context).textTheme.displayLarge,),
-            backgroundColor: Colors.yellow,
+            backgroundColor: Colors.lightBlue,
           ),
         body: SingleChildScrollView(
           child: Center(

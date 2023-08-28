@@ -47,7 +47,7 @@ class _MyLoginState extends State<MyLogin> {
     return Scaffold(
         appBar: AppBar(
           title: Text('Login page',style: Theme.of(context).textTheme.displayLarge,),
-          backgroundColor: Colors.yellow,
+          backgroundColor: Colors.lightBlue,
         ),
 
       body: SingleChildScrollView(

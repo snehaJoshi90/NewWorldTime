@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 final appTheme=ThemeData(
-    colorSchemeSeed: Colors.yellow,
+    colorSchemeSeed: Colors.lightBlue,
     useMaterial3: true,
     textTheme: TextTheme(
         displayLarge: TextStyle(
