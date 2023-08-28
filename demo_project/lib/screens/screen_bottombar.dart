@@ -40,7 +40,7 @@ class _MyNavigationBarState extends State<MyNavigationBar> {
           BottomNavigationBarItem(
               icon: Icon(Icons.person),
               label:'Edit Profile',
-              backgroundColor: Colors.blue),
+              backgroundColor: Colors.yellow),
         ],
         type: BottomNavigationBarType.shifting,
           currentIndex: _selectedIndex,
